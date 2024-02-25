@@ -1,0 +1,15 @@
+C:\Users\BANAN\Desktop\finalТask\bin\Debug\net6.0\finalТask.exe
+C:\Users\BANAN\Desktop\finalТask\bin\Debug\net6.0\finalТask.deps.json
+C:\Users\BANAN\Desktop\finalТask\bin\Debug\net6.0\finalТask.runtimeconfig.json
+C:\Users\BANAN\Desktop\finalТask\bin\Debug\net6.0\finalТask.dll
+C:\Users\BANAN\Desktop\finalТask\bin\Debug\net6.0\finalТask.pdb
+C:\Users\BANAN\Desktop\finalТask\obj\Debug\net6.0\finalТask.csproj.AssemblyReference.cache
+C:\Users\BANAN\Desktop\finalТask\obj\Debug\net6.0\finalТask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BANAN\Desktop\finalТask\obj\Debug\net6.0\finalТask.AssemblyInfoInputs.cache
+C:\Users\BANAN\Desktop\finalТask\obj\Debug\net6.0\finalТask.AssemblyInfo.cs
+C:\Users\BANAN\Desktop\finalТask\obj\Debug\net6.0\finalТask.csproj.CoreCompileInputs.cache
+C:\Users\BANAN\Desktop\finalТask\obj\Debug\net6.0\finalТask.dll
+C:\Users\BANAN\Desktop\finalТask\obj\Debug\net6.0\refint\finalТask.dll
+C:\Users\BANAN\Desktop\finalТask\obj\Debug\net6.0\finalТask.pdb
+C:\Users\BANAN\Desktop\finalТask\obj\Debug\net6.0\finalТask.genruntimeconfig.cache
+C:\Users\BANAN\Desktop\finalТask\obj\Debug\net6.0\ref\finalТask.dll

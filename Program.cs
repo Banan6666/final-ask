@@ -13,6 +13,8 @@
             j++;
         }
     }
-    
+
     return arr;
 }
+string[] array = {"Hello", "2", "world", ":-)"};
+Console.WriteLine($"[{string.Join("; ", FormatString(array))}]");
